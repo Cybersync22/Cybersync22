@@ -2,13 +2,37 @@
 <img src="https://github.com/Cybersync22/Cybersync22/blob/main/Robo2.gif?raw=true" width="450"/>
 </div>
 
-<h1 align="center">Hi ! 👋 I'm Haimanti Chakraborty</h1>
+<h1 align="center">Hi ! 👋 I'm Cybersync</h1>
 <h3 align="center">
   𝘈 𝘤𝘶𝘳𝘪𝘰𝘶𝘴 𝘮𝘪𝘯𝘥 𝘯𝘢𝘷𝘪𝘨𝘢𝘵𝘪𝘯𝘨 𝘵𝘩𝘦 𝘦𝘷𝘦𝘳-𝘦𝘷𝘰𝘭𝘷𝘪𝘯𝘨 𝘸𝘰𝘳𝘭𝘥 𝘰𝘧 𝘳𝘰𝘣𝘰𝘵𝘪𝘤𝘴 🤖 <br>
   An aspiring Software Developer and a passionate Robotics enthusiast. Exploring the intersection of hardware and software to bring intelligent machines to life!
 </h3>
 
-- 🔭 I’m currently working on GlucoBot
+<h3> 🔭 I’m currently working on GlucoBot </h3>
+
+
+
+<p align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cybersync22&show_icons=true&locale=en&layout=compact&theme=default" 
+       alt="Top Langs" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Cybersync22&show_icons=true&locale=en&theme=default" 
+       alt="GitHub Stats" />
+      </td>
+      <td>
+        <!-- Example animation: GitHub Streak Stats -->
+        <img src="https://github.com/Cybersync22/Cybersync22/blob/main/Robo1.gif?raw=true" width="300"/>
+      </td>
+    </tr>
+  </table>
+</p>
+
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
