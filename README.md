@@ -16,6 +16,7 @@
   <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" height="40" alt="Pandas" title="Pandas"/>
   <img src="https://matplotlib.org/_static/images/logo2.svg" height="40" alt="Matplotlib" title="Matplotlib"/>
 </h3>
+<h3> 🧠 Ask me about robotics 🤖 and cool tech projects 🚀
 <h3> ⚡ Fun fact : I’m powered by coffee and curiosity — mostly coffee! 🤪 </h3>
 
 <p align="center">
