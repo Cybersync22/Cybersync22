@@ -27,8 +27,7 @@
        alt="Top Langs" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Cybersync22&show_icons=true&locale=en&theme=default" 
-       alt="GitHub Stats" />
+        <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Cybersync22&show_icons=true&locale=en" alt="hi" /></p>
       </td>
       <td>
         <!-- Example animation: GitHub Streak Stats -->
@@ -39,9 +38,10 @@
 </p>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Cybersync22&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Cybersync22&" alt="hi" /></p>
   <img src="https://github-profile-trophy.vercel.app?username=Cybersync22&theme=default&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
