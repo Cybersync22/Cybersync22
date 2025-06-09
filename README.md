@@ -8,7 +8,7 @@
   An aspiring Software Developer and a passionate Robotics enthusiast. Exploring the intersection of hardware and software to bring intelligent machines to life!
 </h3>
 
-<h3> 🔭 I’m currently working on GlucoBot </h3>
+<h3> 🔭 I’m currently working on : 🩺 GlucoBot </h3>
 <h3> 🌱 I’m currently learning 
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="40" alt="TensorFlow" title="TensorFlow"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="Scikit-learn" title="Scikit-learn"/>
@@ -16,7 +16,7 @@
   <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" height="40" alt="Pandas" title="Pandas"/>
   <img src="https://matplotlib.org/_static/images/logo2.svg" height="40" alt="Matplotlib" title="Matplotlib"/>
 </h3>
-
+<h3> ⚡ Fun fact : I’m powered by coffee and curiosity — mostly coffee! 🤪 </h3>
 
 <p align="center">
   <table>
