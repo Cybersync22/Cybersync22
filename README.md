@@ -39,7 +39,7 @@
 
 <div align="center">
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Cybersync22&" alt="hi" /></p>
-  <img src="https://github-profile-trophy.vercel.app?username=Cybersync22&theme=default&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Cybersync22" alt="hi" /></a> </p>
 </div>
 
 
