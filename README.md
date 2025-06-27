@@ -38,7 +38,7 @@
 </p>
 
 <div align="center">
-  <p><img src="https://streak-stats.demolab.com/?user=Cybersync22"/></p>
+  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Cybersync22"/></p>
   <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Cybersync22" alt="hi" /></a> </p>
 </div>
 
